@@ -2,7 +2,7 @@
 title: 硬件参数
 ---
 
-[[toc]]
+
 
 ![mul_banner](https://yun.swimly.cn/source/ikoolcore/banner.png)
 

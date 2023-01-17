@@ -11,7 +11,7 @@
   "dependencies": {
     "vue": "^3.2.45",
     "@ldesign/icons-view": "0.4.1",
-    "@ldesign/site-component": "^0.4.23",
+    "@ldesign/site-component": "workspace:*",
     "vue-router": "^4.1.6",
     "@ldesign/desktop-next": "^0.3.0",
     "@ldesign/common": "^0.3.0",

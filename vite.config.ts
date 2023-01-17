@@ -37,9 +37,8 @@ export default ({ mode }: any) => {
       port: DOC_DEV_PORT,
     },
     build: {
-      emptyOutDir: false,
+      emptyOutDir: true,
       chunkSizeWarningLimit: 500,
-      outDir: '../wiki.ikoolcore.com',
       rollupOptions: {
         output: {
           chunkFileNames: 'assets/[name]-[hash].js',
@@ -67,6 +66,16 @@ export default ({ mode }: any) => {
           html: true,
           linkify: true,
           typographer: true,
+        },
+        transforms: {
+          before: (code: string) => {
+            if (DOC_TOC === 'true' && DOC_ROUTER_MODE === 'history' && /#+\s/.test(code)) {
+              return `${code}[[toc]]
+              `
+            }
+
+            return code
+          },
         },
         markdownItUses: [
         ],

@@ -5,7 +5,7 @@ meta:
     content: 硬酷R1（iKoolCore R1）是一个迟来的硬件项目，由推特网友 **[Jackeroo](https://twitter.com/isJackeroo)** 联合深圳的硬件工厂推出的目前市场最小巧且性能强大的4网口2.5G小主机。“方寸之间 尽享乐趣” 是硬酷R1的slogon。
 ---
 
-[[toc]]
+
 
 ## 产品介绍
 

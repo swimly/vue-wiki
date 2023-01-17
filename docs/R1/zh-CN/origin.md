@@ -2,7 +2,7 @@
 title: 项目由来
 ---
 
-[[toc]]
+
 
 ![](https://yun.swimly.cn/source/ikoolcore/Banner_404.png)
 

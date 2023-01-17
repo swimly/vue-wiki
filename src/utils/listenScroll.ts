@@ -1,10 +1,4 @@
 export default function getCurrentTitleIndex(doms: any) {
-  const stop = document.documentElement.scrollTop
-  const toc = document.querySelector('.table-of-contents') as HTMLElement
-  if (toc) {
-    toc.style.position = stop > 68 ? 'fixed' : 'absolute'
-    toc.style.top = stop > 68 ? '0' : '68px'
-  }
   const tops: number[] = []
   doms.forEach((d: any, i: number) => {
     const { top } = d.getBoundingClientRect()
