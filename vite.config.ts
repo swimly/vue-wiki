@@ -37,7 +37,8 @@ export default ({ mode }: any) => {
       port: DOC_DEV_PORT,
     },
     build: {
-      emptyOutDir: true,
+      emptyOutDir: false,
+      outDir: '../wiki.ikoolcore.com',
       chunkSizeWarningLimit: 500,
       rollupOptions: {
         output: {

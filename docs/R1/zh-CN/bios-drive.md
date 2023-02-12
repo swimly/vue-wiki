@@ -2,9 +2,8 @@
 title: BIOS与驱动
 ---
 
+更新于2023-01-20.{.notice}
 
+硬酷网盘：[谷歌云盘](https://drive.google.com/drive/folders/1p8LUQPUB49AUuJzbCT0dpLaD8_xyNwzB?usp=share_link) （`若无法打开，请确保你网络可以正常登录Google相关服务`）
 
-## 驱动列表
-
-- Intel i226-v网卡驱动： **[点击下载](https://github.com/KoolCore/ikoolcore/blob/main/docs/files/Intel%20i226-v%20Driver%20Wired_driver_27.6_x64.zip)**
-- [硬酷网盘](https://drive.google.com/drive/folders/1p8LUQPUB49AUuJzbCT0dpLaD8_xyNwzB?usp=share_link) **OpenWRT, PVE, ESXi, BIOS etc.**
+内有独家OpenWRT系统、PVE镜像、ESXi7（`已打包好网卡驱动`）和ESXi8镜像，以及i226-V的Windows系统下的网卡驱动{.notice}

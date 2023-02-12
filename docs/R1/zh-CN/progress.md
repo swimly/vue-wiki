@@ -2,9 +2,7 @@
 title: 进度信息
 ---
 
-
-
-## 进度信息实时更新：
+#### 进度信息实时更新：
 
 疫情之下，不可控因素较多，烦请各位已经上车小伙伴耐心等待发货。因9月初（中秋前后）深圳静默管理7天和国庆7天假期影响，原定于10月中发货的时间得往后推迟2-3周。烦请各位小伙伴理解；若您等不急，可随时在平台申请退款。再次感谢理解。
 
@@ -29,36 +27,14 @@ title: 进度信息
 
 10. 12月3日，首批预售客户货物寄递完毕，转入常规销售阶段
 
+11. 2023年1月8日，首批300台beta版本，全部发售完毕；
+
+12. 1月9日，开启正式版本改版量产；
+
+13. 1月10日，开启正式版本常规预售和正常销售；
+
+14. 1月19日晚22点整，开启海外www.ikoolcore.com 站点预售；
+
    
 
-![](https://yun.swimly.cn/source/ikoolcore/Banner_404.png)
-
-## 待解决的问题：
-
-- 机器风燥和散热的均衡：
-
-散热风扇：可搭配在R1的风扇有两款，目前正在同时优化，确定使用哪款；散热强劲的噪音略大；噪音较小的散热能力一般，工程师仍在解决； {.notice .margin}
-
-- 机箱外壳做工品质：
-
-持续优化细节，USB-C供电口和TYPE-C数据口已经做削薄处理，以确保通用的C公头长度够长，能插的牢靠 {.notice .margin}
-
-- 其他细节：
-  - 脚垫
-
-使用金属脚垫+M2的内六角沉头螺丝固定（底部菊花后续会改成其他图案设计）；{.notice .margin}
-
-  - 电源标签
-
-    <img src="https://yun.swimly.cn/source/ikoolcore/power.png" style="zoom:50%;" />
-
-  - 机器标签
-    
-  - 说明书优化  **【双语】 ，[点此下载PDF版本]()** 
-
-    ![](https://yun.swimly.cn/source/ikoolcore/manual_pdf.png)
-
-  - 整机包装：
-  
-    <img src="https://yun.swimly.cn/source/ikoolcore/package.png" style="zoom:50%;" />
-
+![R1Ad1](https://github.com/KoolCore/wiki.ikoolcore.com/blob/main/pic/Slideshow-05.jpg?raw=true)

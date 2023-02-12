@@ -4,35 +4,37 @@ title: 硬件参数
 
 
 
-![mul_banner](https://yun.swimly.cn/source/ikoolcore/banner.png)
+![](https://github.com/KoolCore/wiki.ikoolcore.com/blob/main/pic/R1-banner-2023.jpg?raw=true)
 
-## 硬件参数：
+#### 硬件选型：
 
-> 从0到1，全新设计。
+- CPU：赛扬N5105、奔腾银牌N6005
 
-- CPU：赛扬N5105、奔腾N6005
-- 内存：板载海力士/三星 LPDDR4 双颗粒，双通道
+- 内存：LPDDR4 双通道，单颗粒8GB (**`16GB为双通道`**)
 
-- 网卡：Intel i226-v    **(优于i225-v)**
+- 网卡：Intel i226-V  **（优于Intel i225-V）** 
 
-- 硬盘：M.2 **接口形式（单双缺口都行）** 2242 **硬盘尺寸规格** ， 为 `NVMe(x2速率)`协议 
+- 硬盘： **M.2 2242 NVMe （PCIe3.0x2速率）** 
+  
+- 显示：HDMI 2.0 4K 60Hz视频输出
 
-- 显示输出：HDMI 2.0 4K60Hz视频输出
+- USB： USB 3.1 Gen1 x 2；USB-C 3.1 Gen1 x 2；
 
-- USB接口：USB 3.1 Gen1 x 2; USB-C 3.1 Gen1 x 1; TF Card x 1（支持引导）
+- TF：TF Card Slot x 1 **（支持启动）已测试：Linux及其分支均(`OpenWRT, pfsense, OPNSense`)可启动，Windows需以`WinToGo方式`启动** 
 
-- 散热方式：主动散热
+- 散热：主动散热 **2023年后已全面升级到`铜管散热器+滚静音风扇`，已无噪音困扰！放心选购！**
 
-- 供电方式：USB-C接口，支持PD（须有20V 3.25A输出档位） 和DC 12V双供电方式
+- 电源：标配 12V 2.5A 30W DC电源 （`标配DC圆头转USB-C直通线`）
 
-- 产品尺寸：**7.5 x 7.5 x 4.8 cm（方寸之间 尽享乐趣）**
+定制C口 12V DC电源，请勿使用此标配DC电源给其他设备供电，以免烧坏其他电子设备！否则后果自负！{.notice}
+
+- 尺寸：7.5 x 7.5 x 4.8cm **(方寸之间，尽享乐趣)**
+
+  ![](https://github.com/KoolCore/wiki.ikoolcore.com/blob/main/pic/banner02_1000x.jpg?raw=true)
 
 
 
+全金属铝合金外壳，阳极氧化工艺打造。{.notice}
 
-## 产品外壳：
 
-全金属铝合金外壳，阳极氧化工艺打造
-
-![mul_banner](https://yun.swimly.cn/source/ikoolcore/mul_banner.png)
 

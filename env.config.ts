@@ -55,16 +55,16 @@ function filterMenus(arr: any[], filter: any) {
 function generateMenus(nav: any, language: any) {
   return [
     {
-      'zh-CNTitle': '描述',
+      'zh-CNTitle': '项目',
       'enTitle': 'Describe',
       'type': 'doc', // 普通文档
       'children': [
         {
           'zh-CNTitle': '了解项目',
-          'enTitle': 'Learn about the project',
+          'enTitle': 'Learn about the R1 project',
           'disabled': ['R2/zh-CN', 'R2/en'],
-          'path': `/${nav.value}/${language.value}/understand`,
-          'component': () => import(`~/docs/${nav.value}/${language.value}/understand.md`),
+          'path': `/${nav.value}/${language.value}/introduction`,
+          'component': () => import(`~/docs/${nav.value}/${language.value}/introduction.md`),
         },
         {
           'zh-CNTitle': '项目由来',
